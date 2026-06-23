@@ -4,6 +4,11 @@ Este projeto demonstra o uso do **padrão de projeto Decorator** em Java, aplica
 
 ## 📌 Estrutura
 
+***DIAGRAMA DE CLASSES***
+
+<img width="910" height="589" alt="decorator" src="https://github.com/user-attachments/assets/cfe86975-26d8-4e8c-9aa5-cab5bca7758a" />
+
+
 - **Interface**
   - `Preco` → define o contrato para cálculo de preço.
 
